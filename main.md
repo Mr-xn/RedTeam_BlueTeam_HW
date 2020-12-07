@@ -213,6 +213,10 @@
 - https://github.com/seclab-ucr/tcp_exploit 利用 tcp 漏洞使无线路由器产生隐私泄露
 - https://github.com/ezelf/CVE-2018-9995_dvr_credentials CVE-2018-9995 摄像头路由，Get DVR Credentials
 
+## Java安全相关的漏洞
+
+- https://github.com/threedr3am/learnjavabug Java安全相关的漏洞和技术demo
+
 
 ## Java 反序列化漏洞收集
 
