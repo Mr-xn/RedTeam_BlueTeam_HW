@@ -12,5 +12,6 @@
 
 ### 篮队检测工具
 
-- [服务器权限&提权漏洞检查脚本](https://github.com/itm4n/PrivescCheck)
+- [PrivescCheck-服务器权限&提权漏洞检查powershell脚本](https://github.com/itm4n/PrivescCheck)
+- [DuckMemoryScan-一个简单寻找包括不限于iis劫持,无文件木马,shellcode免杀后门的工具](https://github.com/huoji120/DuckMemoryScan)
 
