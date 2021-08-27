@@ -35,5 +35,7 @@ File 列表(`tree -N ./hw`):
 └── 蓝队视角下的防御体系突破.pdf
 ```
 
+**路过的HXD记得给个star+follwer！**
+
 [国内仓库备份加速下载地址](https://gitee.com/bughunt)
 
