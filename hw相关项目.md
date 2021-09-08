@@ -15,4 +15,5 @@
 - [PrivescCheck-服务器权限&提权漏洞检查powershell脚本](https://github.com/itm4n/PrivescCheck)
 - [DuckMemoryScan-一个简单寻找包括不限于iis劫持,无文件木马,shellcode免杀后门的工具](https://github.com/huoji120/DuckMemoryScan)
 - [CobaltStrikeForensic：用于研究恶意软件和colbatstrike beacons](https://github.com/RomanEmelyanov/CobaltStrikeForensic)
+- [chainsaw: 快速搜索和狩猎Windows事件日志](https://github.com/countercept/chainsaw)
 
