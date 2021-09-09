@@ -4,7 +4,8 @@
 - [攻击流量模拟 用于迷惑蓝队 分散蓝队精力 混淆真实攻击流量](https://github.com/burpheart/mbtm)
 
 ### 搅屎棍
-- 待补充
+
+- [cobaltspam：批量给 CS 服务端上线一大堆假机器](https://i.hacking8.com/cobaltspam)
 
 ### 相关书籍
 
@@ -16,4 +17,9 @@
 - [DuckMemoryScan-一个简单寻找包括不限于iis劫持,无文件木马,shellcode免杀后门的工具](https://github.com/huoji120/DuckMemoryScan)
 - [CobaltStrikeForensic：用于研究恶意软件和colbatstrike beacons](https://github.com/RomanEmelyanov/CobaltStrikeForensic)
 - [chainsaw: 快速搜索和狩猎Windows事件日志](https://github.com/countercept/chainsaw)
+- [BeaconEye：查找CobaltStrike beacon](https://github.com/CCob/BeaconEye)
+
+### 红队工具
+
+- [bypass-BeaconEye：顾名思义，用来 bypass BeaconEye 的方法](https://github.com/NoOne-hub/bypass-BeaconEye)
 
