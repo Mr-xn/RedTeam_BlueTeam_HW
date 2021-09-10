@@ -7,9 +7,10 @@
 
 - [cobaltspam：批量给 CS 服务端上线一大堆假机器](https://i.hacking8.com/cobaltspam)
 
-### 相关书籍
+### 相关书籍文章
 
 - [2021实战攻防企业红蓝对抗实践指南-长亭科技出品](./hw/2021实战攻防企业红蓝对抗实践指南-长亭.pdf)
+- [应急相关内容积累](https://github.com/tide-emergency/yingji)
 
 ### 篮队检测工具
 
