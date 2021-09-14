@@ -11,6 +11,7 @@
 
 - [2021实战攻防企业红蓝对抗实践指南-长亭科技出品](./hw/2021实战攻防企业红蓝对抗实践指南-长亭.pdf)
 - [应急相关内容积累](https://github.com/tide-emergency/yingji)
+- [Tomcat-Webshell：Tomcat-内存马-Webshell](https://github.com/Am-ev/Tomcat-Webshell)
 
 ### 篮队检测工具
 
@@ -19,7 +20,7 @@
 - [CobaltStrikeForensic：用于研究恶意软件和colbatstrike beacons](https://github.com/RomanEmelyanov/CobaltStrikeForensic)
 - [chainsaw: 快速搜索和狩猎Windows事件日志](https://github.com/countercept/chainsaw)
 - [BeaconEye：查找CobaltStrike beacon](https://github.com/CCob/BeaconEye)
-- [aLIEz：内存马查杀工具](https://github.com/r00t4dm/aLIEz)
+- [aLIEz：Java内存马查杀工具](https://github.com/r00t4dm/aLIEz)
 - [微步在线-文件分析系统](https://s.threatbook.cn/)
 - [intezer-在线文件分析系统（类似微步）](https://analyze.intezer.com/)
 - [bazaar-在线文件分析系统](https://bazaar.abuse.ch/upload/)
@@ -29,8 +30,14 @@
 - [在线杀毒二](https://www.virscan.org/language/zh-cn/)
 - [腾讯哈勃在线文件分析系统](https://habo.qq.com/)
 - [java-memshell-scanner：通过jsp脚本扫描java web Filter/Servlet型内存马](https://github.com/c0ny1/java-memshell-scanner)
+- [卸载冰蝎内存马](https://github.com/wuppp/releaseBehinderShell)
 
 ### 红队工具
 
 - [bypass-BeaconEye：顾名思义，用来 bypass BeaconEye 的方法](https://github.com/NoOne-hub/bypass-BeaconEye)
+- [JavaAgentTools：用Java agent实现内存马等功能](https://github.com/ethushiroha/JavaAgentTools)
+- [weblogic_memshell：适用于weblogic和Tomcat的无shell的内存马](https://github.com/keven1z/weblogic_memshell)
+- [MemoryShellLearn：内存马学习以及部分 Demo](https://github.com/bitterzzZZ/MemoryShellLearn)
+- [reMemshell：Java Agent内存马](https://github.com/22CB7139/reMemshell)
+- [Memory：内存马注入，内存马检测，filter、listener、servlet](https://github.com/birdhan/Memory)
 
