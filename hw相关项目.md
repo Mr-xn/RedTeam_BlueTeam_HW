@@ -19,6 +19,7 @@
 - [CobaltStrikeForensic：用于研究恶意软件和colbatstrike beacons](https://github.com/RomanEmelyanov/CobaltStrikeForensic)
 - [chainsaw: 快速搜索和狩猎Windows事件日志](https://github.com/countercept/chainsaw)
 - [BeaconEye：查找CobaltStrike beacon](https://github.com/CCob/BeaconEye)
+- [aLIEz：内存马查杀工具](https://github.com/r00t4dm/aLIEz)
 
 ### 红队工具
 
