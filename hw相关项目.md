@@ -28,6 +28,7 @@
 - [在线杀毒一](https://www.virustotal.com/)
 - [在线杀毒二](https://www.virscan.org/language/zh-cn/)
 - [腾讯哈勃在线文件分析系统](https://habo.qq.com/)
+- [java-memshell-scanner：通过jsp脚本扫描java web Filter/Servlet型内存马](https://github.com/c0ny1/java-memshell-scanner)
 
 ### 红队工具
 
