@@ -20,6 +20,14 @@
 - [chainsaw: 快速搜索和狩猎Windows事件日志](https://github.com/countercept/chainsaw)
 - [BeaconEye：查找CobaltStrike beacon](https://github.com/CCob/BeaconEye)
 - [aLIEz：内存马查杀工具](https://github.com/r00t4dm/aLIEz)
+- [微步在线-文件分析系统](https://s.threatbook.cn/)
+- [intezer-在线文件分析系统（类似微步）](https://analyze.intezer.com/)
+- [bazaar-在线文件分析系统](https://bazaar.abuse.ch/upload/)
+- [由Hybrid Analysis提供的在线文件分析系统](https://www.hybrid-analysis.com/?lang=zh)
+- [jotti：在线文件分析系统](https://virusscan.jotti.org/)
+- [在线杀毒一](https://www.virustotal.com/)
+- [在线杀毒二](https://www.virscan.org/language/zh-cn/)
+- [腾讯哈勃在线文件分析系统](https://habo.qq.com/)
 
 ### 红队工具
 
