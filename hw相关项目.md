@@ -12,6 +12,7 @@
 - [2021实战攻防企业红蓝对抗实践指南-长亭科技出品](./hw/2021实战攻防企业红蓝对抗实践指南-长亭.pdf)
 - [应急相关内容积累](https://github.com/tide-emergency/yingji)
 - [Tomcat-Webshell：Tomcat-内存马-Webshell](https://github.com/Am-ev/Tomcat-Webshell)
+- [CTF-陇剑杯之内存分析-虚拟机内存取证](./hw/CTF-陇剑杯之内存分析-虚拟机内存取证.pdf)
 
 ### 篮队检测工具
 
