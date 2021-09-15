@@ -13,6 +13,7 @@
 - [应急相关内容积累](https://github.com/tide-emergency/yingji)
 - [Tomcat-Webshell：Tomcat-内存马-Webshell](https://github.com/Am-ev/Tomcat-Webshell)
 - [CTF-陇剑杯之内存分析-虚拟机内存取证](./hw/CTF-陇剑杯之内存分析-虚拟机内存取证.pdf)
+- [Tomcat Filter类型内存马与查杀技术学习](./hw/Tomcat%20Filter类型内存马与查杀技术学习.pdf)
 
 ### 篮队检测工具
 
@@ -32,6 +33,7 @@
 - [腾讯哈勃在线文件分析系统](https://habo.qq.com/)
 - [java-memshell-scanner：通过jsp脚本扫描java web Filter/Servlet型内存马](https://github.com/c0ny1/java-memshell-scanner)
 - [卸载冰蝎内存马](https://github.com/wuppp/releaseBehinderShell)
+- [Copagent：内存马查找工具](https://github.com/LandGrey/copagent)
 
 ### 红队工具
 
