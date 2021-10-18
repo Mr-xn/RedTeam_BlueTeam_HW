@@ -56,4 +56,4 @@ File 列表(`tree -N .`):
 
 [其他资料下载地址一](https://pan.xlmy.net/%E5%AE%89%E5%85%A8%E7%B1%BB/%E5%AE%89%E5%85%A8%E8%B5%84%E6%96%99/%E5%88%A9%E5%88%83%E4%BF%A1%E5%AE%89%E8%B5%84%E6%96%99/%E6%8A%A4%E7%BD%91%E3%80%90%E7%BA%A2%E8%93%9D%E6%94%BB%E9%98%B2%E3%80%91/)
 [其他资料下载地址二](http://disk.scan.cm/zlsec/zlsec_info/document/HW)
-PS：某盟的东西已经删除了，不要再发邮件了。早就公开了的东西，现在去封锁已经没有任何理想的用处了。
+
