@@ -6,6 +6,7 @@
 ### 搅屎棍
 
 - [cobaltspam：批量给 CS 服务端上线一大堆假机器](https://i.hacking8.com/cobaltspam)
+- [一个可以伪装上线Cobaltstrike的脚本](https://github.com/LiAoRJ/CS_fakesubmit)
 
 ### 相关书籍文章
 
