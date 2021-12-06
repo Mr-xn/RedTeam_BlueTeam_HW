@@ -37,6 +37,7 @@
 - [Copagent：内存马查找工具](https://github.com/LandGrey/copagent)
 - [MySQL_Fake_Server：MySQL 蜜罐](https://github.com/fnmsd/MySQL_Fake_Server)
 - [LiqunShield：蓝队工具箱，可解爆破 webshell、解密哥斯拉流量等](https://github.com/Liqunkit/LiqunShield)
+- [JSPKiller：基于污点分析的JSP Webshell检测工具，模拟JVM的栈帧操作进行数据流分析，可以检测出各种变形的JSP Webshell](https://github.com/EmYiQing/JSPKiller)
 
 ### 红队工具
 
