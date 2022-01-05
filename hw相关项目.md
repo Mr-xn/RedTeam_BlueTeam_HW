@@ -38,6 +38,7 @@
 - [MySQL_Fake_Server：MySQL 蜜罐](https://github.com/fnmsd/MySQL_Fake_Server)
 - [LiqunShield：蓝队工具箱，可解爆破 webshell、解密哥斯拉流量等](https://github.com/Liqunkit/LiqunShield)
 - [JSPKiller：基于污点分析的JSP Webshell检测工具，模拟JVM的栈帧操作进行数据流分析，可以检测出各种变形的JSP Webshell](https://github.com/EmYiQing/JSPKiller)
+- [JspFinder：一款通过污点追踪发现Jsp webshell的工具](https://github.com/flowerwind/JspFinder)
 - [log_dependency_checklist：检查系统依赖是否包含漏洞版本的 log4j](https://github.com/LoRexxar/log_dependency_checklist)
 
 ### 红队工具
