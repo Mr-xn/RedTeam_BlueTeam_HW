@@ -40,6 +40,7 @@
 - [JSPKiller：基于污点分析的JSP Webshell检测工具，模拟JVM的栈帧操作进行数据流分析，可以检测出各种变形的JSP Webshell](https://github.com/EmYiQing/JSPKiller)
 - [JspFinder：一款通过污点追踪发现Jsp webshell的工具](https://github.com/flowerwind/JspFinder)
 - [log_dependency_checklist：检查系统依赖是否包含漏洞版本的 log4j](https://github.com/LoRexxar/log_dependency_checklist)
+- [MemoryShell：内存马相关学习以及防御检测](https://github.com/su18/MemoryShell)
 
 ### 红队工具
 
