@@ -41,6 +41,7 @@
 - [JspFinder：一款通过污点追踪发现Jsp webshell的工具](https://github.com/flowerwind/JspFinder)
 - [log_dependency_checklist：检查系统依赖是否包含漏洞版本的 log4j](https://github.com/LoRexxar/log_dependency_checklist)
 - [MemoryShell：内存马相关学习以及防御检测](https://github.com/su18/MemoryShell)
+- [SpringMemShell：Spring内存马研究](https://github.com/EmYiQing/SpringMemShell)
 
 ### 红队工具
 
