@@ -42,6 +42,7 @@
 - [log_dependency_checklist：检查系统依赖是否包含漏洞版本的 log4j](https://github.com/LoRexxar/log_dependency_checklist)
 - [MemoryShell：内存马相关学习以及防御检测](https://github.com/su18/MemoryShell)
 - [SpringMemShell：Spring内存马研究](https://github.com/EmYiQing/SpringMemShell)
+- [FireKylin：火麒麟-网络安全应急响应工具(系统痕迹采集)](https://github.com/MountCloud/FireKylin)
 
 ### 红队工具
 
