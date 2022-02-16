@@ -52,4 +52,6 @@
 - [MemoryShellLearn：内存马学习以及部分 Demo](https://github.com/bitterzzZZ/MemoryShellLearn)
 - [reMemshell：Java Agent内存马](https://github.com/22CB7139/reMemshell)
 - [Memory：内存马注入，内存马检测，filter、listener、servlet](https://github.com/birdhan/Memory)
+- [钉钉 RCE](https://github.com/Mr-xn/dingtalk-RCE)
+- [向日葵 RCE](https://github.com/Mr-xn/sunlogin_rce)
 
