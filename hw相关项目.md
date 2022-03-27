@@ -43,6 +43,7 @@
 - [MemoryShell：内存马相关学习以及防御检测](https://github.com/su18/MemoryShell)
 - [SpringMemShell：Spring内存马研究](https://github.com/EmYiQing/SpringMemShell)
 - [FireKylin：火麒麟-网络安全应急响应工具(系统痕迹采集)](https://github.com/MountCloud/FireKylin)
+- [idea-project-fish-exploit：JetBrains系列产品.idea钓鱼反制红队](https://github.com/CC11001100/idea-project-fish-exploit)
 
 ### 红队工具
 
