@@ -45,6 +45,7 @@
 - [FireKylin：火麒麟-网络安全应急响应工具(系统痕迹采集)](https://github.com/MountCloud/FireKylin)
 - [idea-project-fish-exploit：JetBrains系列产品.idea钓鱼反制红队](https://github.com/CC11001100/idea-project-fish-exploit)
 - [GetInfo：Windows 系统图形化快速取证软件](https://github.com/ra66itmachine/GetInfo)
+- [Emergency-Response-Notes：应急响应实战笔记](https://github.com/Bypass007/Emergency-Response-Notes)
 
 ### 红队工具
 
