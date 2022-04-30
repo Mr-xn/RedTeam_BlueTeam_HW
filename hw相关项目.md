@@ -46,6 +46,7 @@
 - [idea-project-fish-exploit：JetBrains系列产品.idea钓鱼反制红队](https://github.com/CC11001100/idea-project-fish-exploit)
 - [GetInfo：Windows 系统图形化快速取证软件](https://github.com/ra66itmachine/GetInfo)
 - [Emergency-Response-Notes：应急响应实战笔记](https://github.com/Bypass007/Emergency-Response-Notes)
+- [linux安全检查脚本](https://github.com/T0xst/linux)
 
 ### 红队工具
 
