@@ -6,42 +6,40 @@
 File 列表(`tree -N .`):
 
 ```
-├── CobaltStrikeScan.exe
-├── DuckMemoryScan.exe
+├── Blue_Tools
+│   ├── BlueTeam_ABC_123.jar
+│   ├── CobaltStrikeScan.exe
+│   ├── DuckMemoryScan.exe
+│   └── LiqunShield.7z
 ├── LICENSE
 ├── README.md
+├── Red_Tools
+│   ├── LiqunKit 综合漏洞利用工具.7z
+│   ├── TPScan.jar
+│   ├── ThinkPHP.V2.3.by蓝鲸.jar
+│   ├── ThinkphpGUI-1.3-SNAPSHOT.jar
+│   ├── Windows
+│   │   ├── NoApiUser.exe
+│   │   └── win.md
+│   ├── readme.md
+│   └── 图形化漏洞利用Demo-JavaFX版.7z
+├── hostnamePot.jar
 ├── hw
 │   ├── 2020年9月安全监测报告「护网期间高危漏洞使用情况」.pdf
 │   ├── 2020护网中的漏洞.pdf
 │   ├── 2021HW参考_防守方经验总结.pdf
 │   ├── 2021HW行动红队作战手册.pdf
 │   ├── 2021实战攻防企业红蓝对抗实践指南-长亭.pdf
-│   ├── HW01-护网保障概述-v2.0.pdf
-│   ├── HW02-前期自查工作要点-v2.0.pdf
-│   ├── HW03-资产梳理实战指导-v1.1.pdf
-│   ├── HW04-漏洞扫描实施标准-v1.0.pdf
-│   ├── HW05-常见安全漏洞加固-v1.0.pdf
-│   ├── HW06-弱口令扫描实施标准-v1.0.pdf
-│   ├── HW07-网络安全防护分析-v1.0.pdf
-│   ├── HW08-关键安全配置解析-v1.5.pdf
-│   ├── HW09-安全加固实施标准-v1.0.pdf
-│   ├── HW10-NTI平台使用培训-v1.0.pdf
-│   ├── HW11-态势感知平台分析培训-v1.0.pdf
-│   ├── HW12-IPS分析培训-v1.0.pdf
-│   ├── HW12-WAF分析培训-v1.0.pdf
-│   ├── HW13-ESPC平台分析培训-v1.0.pdf
-│   ├── HW14-TAC产品分析培训-v1.0.pdf
-│   ├── HW15-全流量平台分析培训-v1.0.pdf
-│   ├── HW16-告警日志分析技术-v1.1.pdf
-│   ├── HW17-快速应急响应技术-v1.0.pdf
-│   ├── HW18-安全事件闭环流程管理-v1.0.pdf
-│   ├── HW19-对抗攻击思路及常用手法解析-v1.0.pdf
+│   ├── CTF-陇剑杯之内存分析-虚拟机内存取证.pdf
 │   ├── HW攻守思路3.pdf
 │   ├── HW多人运动溯源反制指北.pdf
 │   ├── HW弹药库之红队作战手册.pdf
+│   ├── Tomcat Filter类型内存马与查杀技术学习.pdf
 │   ├── mysql.Linux.zip
 │   ├── mysql.windows.zip
+│   ├── 微软sysmon使用总结.pdf
 │   ├── 【应急响应】windows入侵检查流程.pdf
+│   ├── 使用内存签名检测 Cobalt Strike.pdf
 │   ├── 红队视角下的防御体系构建.pdf
 │   └── 蓝队视角下的防御体系突破.pdf
 ├── hw相关项目.md
@@ -51,6 +49,8 @@ File 列表(`tree -N .`):
 ├── script
 │   └── winSensorCheck.bat
 └── security_wike.md
+
+6 directories, 37 files
 ```
 
 另一个压缩包文件列表:
