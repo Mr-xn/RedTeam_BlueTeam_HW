@@ -51,6 +51,7 @@
 - [DuckMemoryScan.exe：检测绝大部分所谓的内存免杀马](./Blue_Tools/DuckMemoryScan.exe)
 - [LiqunShield：Webshell流量解密(目前支持哥斯拉)](./Blue_Tools/LiqunShield.7z)
 - [BlueTeam_ABC_123：蓝队分析工具箱，目前支持 shiro 数据包解密，冰蝎哥斯拉解密开发中](./Blue_Tools/)
+- [godzilla_decode：哥斯拉JSP和java内存马 全流量解密脚本](https://github.com/AlphabugX/godzilla_decode)
 
 ### 红队工具
 
