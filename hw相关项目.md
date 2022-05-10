@@ -52,6 +52,7 @@
 - [LiqunShield：Webshell流量解密(目前支持哥斯拉)](./Blue_Tools/LiqunShield.7z)
 - [BlueTeam_ABC_123：蓝队分析工具箱，目前支持 shiro 数据包解密，冰蝎哥斯拉解密开发中](./Blue_Tools/)
 - [godzilla_decode：哥斯拉JSP和java内存马 全流量解密脚本](https://github.com/AlphabugX/godzilla_decode)
+- [godzilla_decoder：哥斯拉加密流量分析的辅助脚本](https://github.com/think3t/godzilla_decoder)
 
 ### 红队工具
 
