@@ -47,6 +47,7 @@
 - [GetInfo：Windows 系统图形化快速取证软件](https://github.com/ra66itmachine/GetInfo)
 - [Emergency-Response-Notes：应急响应实战笔记](https://github.com/Bypass007/Emergency-Response-Notes)
 - [linux安全检查脚本](https://github.com/T0xst/linux)
+- [LinuxCheck：Linux应急处置/信息搜集/漏洞检测工具](https://github.com/al0ne/LinuxCheck)
 - [CobaltStrikeScan.exe：cobaltstrike 内存扫描](./Blue_Tools/CobaltStrikeScan.exe)
 - [DuckMemoryScan.exe：检测绝大部分所谓的内存免杀马](./Blue_Tools/DuckMemoryScan.exe)
 - [LiqunShield：Webshell流量解密(目前支持哥斯拉)](./Blue_Tools/LiqunShield.7z)
