@@ -55,6 +55,7 @@
 - [godzilla_decode：哥斯拉JSP和java内存马 全流量解密脚本](https://github.com/AlphabugX/godzilla_decode)
 - [godzilla_decoder：哥斯拉加密流量分析的辅助脚本](https://github.com/think3t/godzilla_decoder)
 - [inforgation：蓝队信息聚合查询工具](https://github.com/Wrong-pixel/inforgation)
+- [针对微信的调查取证工具，自动化提取本地PC所有的微信信息, 包括微信号, 手机号等](https://github.com/ecat-sec/wechat_info_collect)
 
 ### 红队工具
 
