@@ -69,4 +69,5 @@
 - [Memory：内存马注入，内存马检测，filter、listener、servlet](https://github.com/birdhan/Memory)
 - [钉钉 RCE](https://github.com/Mr-xn/dingtalk-RCE)
 - [向日葵 RCE](https://github.com/Mr-xn/sunlogin_rce)
+- [sendMail：批量发送钓鱼邮件](https://github.com/1n7erface/sendMail)
 
