@@ -70,4 +70,5 @@
 - [钉钉 RCE](https://github.com/Mr-xn/dingtalk-RCE)
 - [向日葵 RCE](https://github.com/Mr-xn/sunlogin_rce)
 - [sendMail：批量发送钓鱼邮件](https://github.com/1n7erface/sendMail)
+- [CVE-2022-30190-follina-Office-MSDT-Fixed：CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用](https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed)
 
