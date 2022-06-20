@@ -58,6 +58,7 @@
 - [针对微信的调查取证工具，自动化提取本地PC所有的微信信息, 包括微信号, 手机号等](https://github.com/ecat-sec/wechat_info_collect)
 - [WXDBDecrypt.NET：微信PC版数据库解密工具 .NET版本](https://github.com/Mr0x01/WXDBDecrypt.NET)
 - [HScan：Linux主机日志分析排查脚本，定制化在主机中执行命令](https://github.com/HZzz2/HScan)
+- [confluencePot：用 golang 编写，针对CVE-2022-26134的简单蜜罐](https://github.com/SIFalcon/confluencePot)
 
 ### 红队工具
 
