@@ -71,4 +71,6 @@
 - [向日葵 RCE](https://github.com/Mr-xn/sunlogin_rce)
 - [sendMail：批量发送钓鱼邮件](https://github.com/1n7erface/sendMail)
 - [CVE-2022-30190-follina-Office-MSDT-Fixed：CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用](https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed)
+- [ysoserial：魔改版 ysoserial ，支持基础链版本的覆盖、利用链的扩充和丰富、利用方式的填充、利用链探测、内存马、防御绕过、MSF/CS 上线等，总之，卷王出品，强的离谱](https://github.com/su18/ysoserial)
+- [探寻Tomcat文件上传流量层面绕waf新姿势](https://y4tacker.github.io/2022/06/19/year/2022/6/%E6%8E%A2%E5%AF%BBTomcat%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%B5%81%E9%87%8F%E5%B1%82%E9%9D%A2%E7%BB%95waf%E6%96%B0%E5%A7%BF%E5%8A%BF/)
 
