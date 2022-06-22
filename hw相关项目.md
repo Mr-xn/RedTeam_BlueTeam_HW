@@ -60,6 +60,7 @@
 - [HScan：Linux主机日志分析排查脚本，定制化在主机中执行命令](https://github.com/HZzz2/HScan)
 - [confluencePot：用 golang 编写，针对CVE-2022-26134的简单蜜罐](https://github.com/SIFalcon/confluencePot)
 - [JAVA 反序列化在线解析](https://0xby.com/onlinetools/Deserial.html)
+- [Shiro rememberMe 在线解密](https://vulsee.com/tools/shiroDe/shiroDecrypt.html)|[第二个解密](https://www.cocosec.com/shiro_rememberMe/)|[第三个](https://sec.dog/shiroDecrypt.html)|[第四个](https://simolin.cn/tools/shiro/)|[第五个](https://www.lezy.cn/tools/rememberMe/)
 
 ### 红队工具
 
