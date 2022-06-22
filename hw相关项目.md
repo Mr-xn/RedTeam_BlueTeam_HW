@@ -59,6 +59,7 @@
 - [WXDBDecrypt.NET：微信PC版数据库解密工具 .NET版本](https://github.com/Mr0x01/WXDBDecrypt.NET)
 - [HScan：Linux主机日志分析排查脚本，定制化在主机中执行命令](https://github.com/HZzz2/HScan)
 - [confluencePot：用 golang 编写，针对CVE-2022-26134的简单蜜罐](https://github.com/SIFalcon/confluencePot)
+- [JAVA 反序列化在线解析](https://0xby.com/onlinetools/Deserial.html)
 
 ### 红队工具
 
