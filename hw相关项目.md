@@ -61,6 +61,7 @@
 - [confluencePot：用 golang 编写，针对CVE-2022-26134的简单蜜罐](https://github.com/SIFalcon/confluencePot)
 - [JAVA 反序列化在线解析](https://0xby.com/onlinetools/Deserial.html)
 - [Shiro rememberMe 在线解密](https://vulsee.com/tools/shiroDe/shiroDecrypt.html)|[第二个解密](https://www.cocosec.com/shiro_rememberMe/)|[第三个](https://sec.dog/shiroDecrypt.html)|[第四个](https://simolin.cn/tools/shiro/)|[第五个](https://www.lezy.cn/tools/rememberMe/)
+- [Windows-emergency-servicetools：Windows一键检测应急响应服务工具/r3数据采集引擎](https://github.com/TimelifeCzy/Windows-emergency-servicetools)
 
 ### 红队工具
 
@@ -76,4 +77,9 @@
 - [CVE-2022-30190-follina-Office-MSDT-Fixed：CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用](https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed)
 - [ysoserial：魔改版 ysoserial ，支持基础链版本的覆盖、利用链的扩充和丰富、利用方式的填充、利用链探测、内存马、防御绕过、MSF/CS 上线等，总之，卷王出品，强的离谱](https://github.com/su18/ysoserial)
 - [探寻Tomcat文件上传流量层面绕waf新姿势](https://y4tacker.github.io/2022/06/19/year/2022/6/%E6%8E%A2%E5%AF%BBTomcat%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%B5%81%E9%87%8F%E5%B1%82%E9%9D%A2%E7%BB%95waf%E6%96%B0%E5%A7%BF%E5%8A%BF/)
+- [SharpXDecrypt：Xshell全版本密码恢复工具](https://github.com/JDArmy/SharpXDecrypt)
+- [veinmind-tools：容器安全工具集](https://github.com/chaitin/veinmind-tools)
+- [Plog：仅用于提取登录密码的 Mimikatz（免杀大多数 AV）](https://github.com/GamehunterKaan/Plog)
+- [ShellcodeLoader：绕过防病毒软件的Shellocde加载器](https://github.com/ByPassAVTeam/ShellcodeLoader)
+- [iisScaner：多线程批量检测IIS短文件名漏洞+漏洞利用](https://github.com/VMsec/iisScaner)
 
