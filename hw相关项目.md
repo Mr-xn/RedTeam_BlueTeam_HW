@@ -82,4 +82,6 @@
 - [Plog：仅用于提取登录密码的 Mimikatz（免杀大多数 AV）](https://github.com/GamehunterKaan/Plog)
 - [ShellcodeLoader：绕过防病毒软件的Shellocde加载器](https://github.com/ByPassAVTeam/ShellcodeLoader)
 - [iisScaner：多线程批量检测IIS短文件名漏洞+漏洞利用](https://github.com/VMsec/iisScaner)
+- [AKtools-Java版的aliyun-accesskey-Tools](https://github.com/Moon3r/AKtools)|[aliyun-accesskey-Tools-此工具用于查询ALIYUN_ACCESSKEY的主机，并且远程执行命令](https://github.com/mrknow001/aliyun-accesskey-Tools)|[alicloud-tools：阿里云ECS、策略组辅助小工具](https://github.com/iiiusky/alicloud-tools)
+- [dismember：扫描内存里敏感内容，其实就是类似 OD的内存字符串搜索](https://github.com/liamg/dismember)
 
