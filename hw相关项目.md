@@ -71,6 +71,7 @@
 - [PowerSiem：系统检视工具日志的创建和验证 PowerShell 脚本，多用于恶意软件的IOC监测](https://github.com/IppSec/PowerSiem)
 - [ShiroDecrypter：Shiro Decrypter是一个解密 Shiro-rememberMe的图形化小工具，支持cbc和gcm](https://github.com/Ormicron/ShiroDecrypter)
 - [NoAgent-memshell-scanner：NoAgent内存马检测程序](https://github.com/xyy-ws/NoAgent-memshell-scanner)
+- [DecodeSomeJSPWebshell：部分jspwebshell通信流量加解密器（利用java Swing 简单写的一个jspWebshell 解密工具： 支持 冰蝎2，冰蝎3，哥斯拉）](https://github.com/minhangxiaohui/DecodeSomeJSPWebshell)
 
 ### 红队工具
 
@@ -118,6 +119,7 @@
 - [gost：GO语言实现的安全隧道](https://github.com/ginuerzh/gost)
 - [addMemShellsJSP：通过jsp注入valve内存马，可以忽略框架影响，通用tomcat789](https://github.com/Ghost2097221/addMemShellsJSP)
 - [GarBageTools-public：支持致远、蓝凌、万户、帆软报表、fastjson、el表达式shell等功能的漏洞利用工具](https://github.com/Ghost2097221/GarBageTools-public)
+- [NoNetCmdEcho-FileW.e：应对渗透中极限环境下命令回显 & 文件落地](https://github.com/Dr-S1x17/NoNetCmdEcho-FileW.e)
 
 ### 其他
 
