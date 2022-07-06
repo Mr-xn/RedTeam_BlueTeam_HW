@@ -70,6 +70,7 @@
 - [BlueHound：一款GUI版本主机威胁狩猎工具。支持上机/离线扫描webshell、CobaltStrike的beacon程序扫描以及内存扫描，基于.NET 4.6编译](https://github.com/10000Tigers/BlueHound)
 - [PowerSiem：系统检视工具日志的创建和验证 PowerShell 脚本，多用于恶意软件的IOC监测](https://github.com/IppSec/PowerSiem)
 - [ShiroDecrypter：Shiro Decrypter是一个解密 Shiro-rememberMe的图形化小工具，支持cbc和gcm](https://github.com/Ormicron/ShiroDecrypter)
+- [NoAgent-memshell-scanner：NoAgent内存马检测程序](https://github.com/xyy-ws/NoAgent-memshell-scanner)
 
 ### 红队工具
 
