@@ -72,6 +72,8 @@
 - [ShiroDecrypter：Shiro Decrypter是一个解密 Shiro-rememberMe的图形化小工具，支持cbc和gcm](https://github.com/Ormicron/ShiroDecrypter)
 - [NoAgent-memshell-scanner：NoAgent内存马检测程序](https://github.com/xyy-ws/NoAgent-memshell-scanner)
 - [DecodeSomeJSPWebshell：部分jspwebshell通信流量加解密器（利用java Swing 简单写的一个jspWebshell 解密工具： 支持 冰蝎2，冰蝎3，哥斯拉）](https://github.com/minhangxiaohui/DecodeSomeJSPWebshell)
+- [阿里云在线沙箱](https://ti.aliyun.com/#/sastiFile)|[微步沙箱](https://s.threatbook.cn/)|[any.run](https://any.run/)|[virustotal](https://www.virustotal.com/gui/home/upload)
+- [阿里云 webshel 检测](https://ti.aliyun.com/#/webshell)|[河马 webshell 检测](https://n.shellpub.com/)|[牧云 WebShell 检测引擎社区版 （Aka.关山）](https://stack.chaitin.com/security-challenge/webshell)|[百度WEBDIR+](https://scanner.baidu.com/#/pages/intro)
 
 ### 红队工具
 
