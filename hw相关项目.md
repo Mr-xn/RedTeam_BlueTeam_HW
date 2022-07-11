@@ -84,7 +84,7 @@
 - [reMemshell：Java Agent内存马](https://github.com/22CB7139/reMemshell)
 - [Memory：内存马注入，内存马检测，filter、listener、servlet](https://github.com/birdhan/Memory)
 - [钉钉 RCE](https://github.com/Mr-xn/dingtalk-RCE)
-- [向日葵 RCE](https://github.com/Mr-xn/sunlogin_rce)
+- [向日葵 RCE](https://github.com/Mr-xn/sunlogin_rce)|[Sunlogin_RCE-GUI：向日葵漏洞图形化利用工具](https://github.com/savior-only/Sunlogin_RCE-GUI-)
 - [sendMail：批量发送钓鱼邮件](https://github.com/1n7erface/sendMail)
 - [CVE-2022-30190-follina-Office-MSDT-Fixed：CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用](https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed)
 - [ysoserial：魔改版 ysoserial ，支持基础链版本的覆盖、利用链的扩充和丰富、利用方式的填充、利用链探测、内存马、防御绕过、MSF/CS 上线等，总之，卷王出品，强的离谱](https://github.com/su18/ysoserial)
