@@ -75,6 +75,7 @@
 - [阿里云在线沙箱](https://ti.aliyun.com/#/sastiFile)|[微步沙箱](https://s.threatbook.cn/)|[any.run](https://any.run/)|[virustotal](https://www.virustotal.com/gui/home/upload)
 - [阿里云 webshel 检测](https://ti.aliyun.com/#/webshell)|[河马 webshell 检测](https://n.shellpub.com/)|[牧云 WebShell 检测引擎社区版 （Aka.关山）](https://stack.chaitin.com/security-challenge/webshell)|[百度WEBDIR+](https://scanner.baidu.com/#/pages/intro)
 - [ide-honeypot：一款针对于IDE的反制蜜罐 IDE-honeypot](https://github.com/wendell1224/ide-honeypot)
+- [javare：在线JAVA反向工程网，可以在线反编译 class 为 JAVA 文件](http://javare.cn/)
 
 ### 红队工具
 
