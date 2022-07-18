@@ -15,6 +15,7 @@
 - [Tomcat-Webshell：Tomcat-内存马-Webshell](https://github.com/Am-ev/Tomcat-Webshell)
 - [CTF-陇剑杯之内存分析-虚拟机内存取证](./hw/CTF-陇剑杯之内存分析-虚拟机内存取证.pdf)
 - [Tomcat Filter类型内存马与查杀技术学习](./hw/Tomcat%20Filter类型内存马与查杀技术学习.pdf)
+- [yingji：应急相关内容](https://github.com/tide-emergency/yingji)
 
 ### 篮队工具
 
