@@ -34,6 +34,7 @@
 - [在线杀毒二](https://www.virscan.org/language/zh-cn/)
 - [腾讯哈勃在线文件分析系统](https://habo.qq.com/)
 - [java-memshell-scanner：通过jsp脚本扫描java web Filter/Servlet型内存马](https://github.com/c0ny1/java-memshell-scanner)
+- [ASP.NET-Memshell-Scanner：asp.net内存马检测工具](https://github.com/yzddmr6/ASP.NET-Memshell-Scanner)
 - [卸载冰蝎内存马](https://github.com/wuppp/releaseBehinderShell)
 - [Copagent：内存马查找工具](https://github.com/LandGrey/copagent)
 - [MySQL_Fake_Server：MySQL 蜜罐](https://github.com/fnmsd/MySQL_Fake_Server)
@@ -78,6 +79,14 @@
 - [ide-honeypot：一款针对于IDE的反制蜜罐 IDE-honeypot](https://github.com/wendell1224/ide-honeypot)
 - [javare：在线JAVA反向工程网，可以在线反编译 class 为 JAVA 文件](http://javare.cn/)
 - [FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp：一种针对红队的新型溯源手段](https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp)
+- [epagneul：Windows 事件日志的图形可视化展示](https://github.com/jurelou/epagneul)
+- [EVTX-ATTACK-SAMPLES：Windows 攻击日志示例（200+）](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES)
+- [Microsoft-eventlog-mindmap：Windows 事件日志的脑图，它使防御者能够出于不同目的增强对受监控资产的可见性](https://github.com/mdecrevoisier/Microsoft-eventlog-mindmap)
+- [LogonTracer：通过可视化和分析 Windows 事件日志来调查恶意 Windows 登录](https://github.com/JPCERTCC/LogonTracer)
+- [EmoCheck：适用于 Windows 操作系统的 Emotet 检测工具](https://github.com/JPCERTCC/EmoCheck)
+- [SysmonSearch：通过可视化 Sysmon 的事件日志来调查可疑活动](https://github.com/JPCERTCC/SysmonSearch)
+- [hardentools： 通过禁用容易实现的风险功能来简单地减少 Microsoft Windows 计算机上的攻击面](https://github.com/securitywithoutborders/hardentools)
+- [privatezilla：执行 Windows 10 的隐私和安全检查](https://github.com/builtbybel/privatezilla)
 
 ### 红队工具
 
@@ -128,6 +137,7 @@
 - [NoNetCmdEcho-FileW.e：应对渗透中极限环境下命令回显 & 文件落地](https://github.com/Dr-S1x17/NoNetCmdEcho-FileW.e)
 - [goblin：一款适用于红蓝对抗中的仿真钓鱼系统](https://github.com/xiecat/goblin)
 - [EasyFish：参考Gophish框架，重构的轻量级钓鱼追踪工具](https://github.com/bin-maker/EasyFish)
+- [winlog：一款基于go的windows信息收集工具，主要收集目标机器rdp端口、mstsc远程连接记录、mstsc密码和安全事件中4624、4625登录事件记录（其实也可以用于蓝队）](https://github.com/i11us0ry/winlog)
 
 ### 其他
 
