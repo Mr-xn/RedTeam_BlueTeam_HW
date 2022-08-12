@@ -77,6 +77,7 @@
 - [阿里云 webshel 检测](https://ti.aliyun.com/#/webshell)|[河马 webshell 检测](https://n.shellpub.com/)|[牧云 WebShell 检测引擎社区版 （Aka.关山）](https://stack.chaitin.com/security-challenge/webshell)|[百度WEBDIR+](https://scanner.baidu.com/#/pages/intro)
 - [ide-honeypot：一款针对于IDE的反制蜜罐 IDE-honeypot](https://github.com/wendell1224/ide-honeypot)
 - [javare：在线JAVA反向工程网，可以在线反编译 class 为 JAVA 文件](http://javare.cn/)
+- [FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp：一种针对红队的新型溯源手段](https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp)
 
 ### 红队工具
 
@@ -126,7 +127,9 @@
 - [GarBageTools-public：支持致远、蓝凌、万户、帆软报表、fastjson、el表达式shell等功能的漏洞利用工具](https://github.com/Ghost2097221/GarBageTools-public)
 - [NoNetCmdEcho-FileW.e：应对渗透中极限环境下命令回显 & 文件落地](https://github.com/Dr-S1x17/NoNetCmdEcho-FileW.e)
 - [goblin：一款适用于红蓝对抗中的仿真钓鱼系统](https://github.com/xiecat/goblin)
+- [EasyFish：参考Gophish框架，重构的轻量级钓鱼追踪工具](https://github.com/bin-maker/EasyFish)
 
 ### 其他
 
 [jvm-http-proxy-agent：一个 JVM 代理，它为所有主要的 JVM HTTP 客户端自动强制代理 HTTP(S) 连接并信任 MitM 证书](https://github.com/httptoolkit/jvm-http-proxy-agent)
+
