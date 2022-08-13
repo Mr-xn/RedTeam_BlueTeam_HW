@@ -22,7 +22,12 @@
 - [PrivescCheck-服务器权限&提权漏洞检查powershell脚本](https://github.com/itm4n/PrivescCheck)
 - [DuckMemoryScan-一个简单寻找包括不限于iis劫持,无文件木马,shellcode免杀后门的工具](https://github.com/huoji120/DuckMemoryScan)
 - [CobaltStrikeForensic：用于研究恶意软件和colbatstrike beacons](https://github.com/RomanEmelyanov/CobaltStrikeForensic)
-- [chainsaw: 快速搜索和狩猎Windows事件日志](https://github.com/countercept/chainsaw)
+- [DetectCobaltStomp：检测指定进程是否存在CS](https://github.com/slaeryan/DetectCobaltStomp)
+- [Hunt-Sleeping-Beacons：发现休眠中的 CS beacons](https://github.com/thefLink/Hunt-Sleeping-Beacons)
+- [BeaconHunter：使用ETW检测CS beacons](https://github.com/3lp4tr0n/BeaconHunter)
+- [patriot：用于检测各种内存隐身技术的小型研究项目](https://github.com/joe-desimone/patriot)
+- [pe-sieve：扫描指定进程，识别并转储各种潜在的恶意植入程序（替换/注入的 PE、shellcode、钩子、内存patches）](https://github.com/hasherezade/pe-sieve)
+- [MalMemDetect：检测奇怪的内存区域和 DLL](https://github.com/waldo-irc/MalMemDetect)
 - [BeaconEye：查找CobaltStrike beacon](https://github.com/CCob/BeaconEye)
 - [aLIEz：Java内存马查杀工具](https://github.com/r00t4dm/aLIEz)
 - [微步在线-文件分析系统](https://s.threatbook.cn/)
@@ -79,6 +84,7 @@
 - [ide-honeypot：一款针对于IDE的反制蜜罐 IDE-honeypot](https://github.com/wendell1224/ide-honeypot)
 - [javare：在线JAVA反向工程网，可以在线反编译 class 为 JAVA 文件](http://javare.cn/)
 - [FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp：一种针对红队的新型溯源手段](https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp)
+- [chainsaw: 快速搜索和狩猎Windows事件日志](https://github.com/countercept/chainsaw)
 - [epagneul：Windows 事件日志的图形可视化展示](https://github.com/jurelou/epagneul)
 - [EVTX-ATTACK-SAMPLES：Windows 攻击日志示例（200+）](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES)
 - [Microsoft-eventlog-mindmap：Windows 事件日志的脑图，它使防御者能够出于不同目的增强对受监控资产的可见性](https://github.com/mdecrevoisier/Microsoft-eventlog-mindmap)
@@ -87,7 +93,6 @@
 - [SysmonSearch：通过可视化 Sysmon 的事件日志来调查可疑活动](https://github.com/JPCERTCC/SysmonSearch)
 - [hardentools： 通过禁用容易实现的风险功能来简单地减少 Microsoft Windows 计算机上的攻击面](https://github.com/securitywithoutborders/hardentools)
 - [privatezilla：执行 Windows 10 的隐私和安全检查](https://github.com/builtbybel/privatezilla)
-- [DetectCobaltStomp：检测指定进程是否存在CS](https://github.com/slaeryan/DetectCobaltStomp)
 
 ### 红队工具
 
@@ -148,6 +153,7 @@
 - [HostCollision：用于host碰撞而生的小工具,专门检测渗透中需要绑定hosts才能访问的主机或内部系统](https://github.com/pmiaowu/HostCollision)
 - [Armor：浏览器反蜜罐插件](https://github.com/jayus0821/Armor)
 - [Forest：基于frp(0.44.0)二次开发，删除不必要功能，加密配置文件，修改流量以及文件特征](https://github.com/seventeenman/Forest)
+- [AceLdr：Cobalt Strike UDRL 用于内存扫描bypass](https://github.com/kyleavery/AceLdr)
 
 ### 其他
 
