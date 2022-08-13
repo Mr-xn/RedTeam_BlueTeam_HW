@@ -37,7 +37,7 @@
 - [ASP.NET-Memshell-Scanner：asp.net内存马检测工具](https://github.com/yzddmr6/ASP.NET-Memshell-Scanner)
 - [卸载冰蝎内存马](https://github.com/wuppp/releaseBehinderShell)
 - [Copagent：内存马查找工具](https://github.com/LandGrey/copagent)
-- [MySQL_Fake_Server：MySQL 蜜罐](https://github.com/fnmsd/MySQL_Fake_Server)
+- [MySQL_Fake_Server：MySQL 蜜罐](https://github.com/fnmsd/MySQL_Fake_Server)|[MysqlT：伪造Myslq服务端,并利用Mysql逻辑漏洞来获取客户端的任意文件反击攻击者](https://github.com/BeichenDream/MysqlT)
 - [LiqunShield：蓝队工具箱，可解爆破 webshell、解密哥斯拉流量等](https://github.com/Liqunkit/LiqunShield)
 - [JSPKiller：基于污点分析的JSP Webshell检测工具，模拟JVM的栈帧操作进行数据流分析，可以检测出各种变形的JSP Webshell](https://github.com/EmYiQing/JSPKiller)
 - [JspFinder：一款通过污点追踪发现Jsp webshell的工具](https://github.com/flowerwind/JspFinder)
@@ -87,6 +87,7 @@
 - [SysmonSearch：通过可视化 Sysmon 的事件日志来调查可疑活动](https://github.com/JPCERTCC/SysmonSearch)
 - [hardentools： 通过禁用容易实现的风险功能来简单地减少 Microsoft Windows 计算机上的攻击面](https://github.com/securitywithoutborders/hardentools)
 - [privatezilla：执行 Windows 10 的隐私和安全检查](https://github.com/builtbybel/privatezilla)
+- [DetectCobaltStomp：检测指定进程是否存在CS](https://github.com/slaeryan/DetectCobaltStomp)
 
 ### 红队工具
 
@@ -97,7 +98,7 @@
 - [reMemshell：Java Agent内存马](https://github.com/22CB7139/reMemshell)
 - [Memory：内存马注入，内存马检测，filter、listener、servlet](https://github.com/birdhan/Memory)
 - [钉钉 RCE](https://github.com/Mr-xn/dingtalk-RCE)
-- [向日葵 RCE](https://github.com/Mr-xn/sunlogin_rce)|[Sunlogin_RCE-GUI：向日葵漏洞图形化利用工具](https://github.com/savior-only/Sunlogin_RCE-GUI-)
+- [向日葵 RCE](https://github.com/Mr-xn/sunlogin_rce)|[Sunlogin_RCE-GUI：向日葵漏洞图形化利用工具](https://github.com/savior-only/Sunlogin_RCE-GUI-)|[sunlogin_exp_for_tututu：基于 nmap的向日葵RCE 扫描工具](https://github.com/SkyBlueEternal/sunlogin_exp_for_tututu)
 - [sendMail：批量发送钓鱼邮件](https://github.com/1n7erface/sendMail)
 - [CVE-2022-30190-follina-Office-MSDT-Fixed：CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用](https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed)
 - [ysoserial：魔改版 ysoserial ，支持基础链版本的覆盖、利用链的扩充和丰富、利用方式的填充、利用链探测、内存马、防御绕过、MSF/CS 上线等，总之，卷王出品，强的离谱](https://github.com/su18/ysoserial)
@@ -138,6 +139,15 @@
 - [goblin：一款适用于红蓝对抗中的仿真钓鱼系统](https://github.com/xiecat/goblin)
 - [EasyFish：参考Gophish框架，重构的轻量级钓鱼追踪工具](https://github.com/bin-maker/EasyFish)
 - [winlog：一款基于go的windows信息收集工具，主要收集目标机器rdp端口、mstsc远程连接记录、mstsc密码和安全事件中4624、4625登录事件记录（其实也可以用于蓝队）](https://github.com/i11us0ry/winlog)
+- [sshpam：记录ssh或sudo明文密码](https://github.com/yaunsky/sshpam)
+- [JSBypassAV：适用于 CS 下生成 jsbypass](https://github.com/kyxiaxiang/JSBypassAV)
+- [msmap：内存webshell 生成工具](https://github.com/hosch3n/msmap)
+- [rproxy：自动化的代理服务器](https://github.com/LubyRuffy/rproxy)
+- [TamperingSyscalls：绕过 EDR 的系统调用达到免杀](https://github.com/rad9800/TamperingSyscalls)
+- [ReturnGate：绕过 EDR 获取 sysid 来达到免杀](https://github.com/timwhitez/ReturnGate)
+- [HostCollision：用于host碰撞而生的小工具,专门检测渗透中需要绑定hosts才能访问的主机或内部系统](https://github.com/pmiaowu/HostCollision)
+- [Armor：浏览器反蜜罐插件](https://github.com/jayus0821/Armor)
+- [Forest：基于frp(0.44.0)二次开发，删除不必要功能，加密配置文件，修改流量以及文件特征](https://github.com/seventeenman/Forest)
 
 ### 其他
 
