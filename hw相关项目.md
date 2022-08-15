@@ -93,6 +93,8 @@
 - [SysmonSearch：通过可视化 Sysmon 的事件日志来调查可疑活动](https://github.com/JPCERTCC/SysmonSearch)
 - [hardentools： 通过禁用容易实现的风险功能来简单地减少 Microsoft Windows 计算机上的攻击面](https://github.com/securitywithoutborders/hardentools)
 - [privatezilla：执行 Windows 10 的隐私和安全检查](https://github.com/builtbybel/privatezilla)
+- [DuckSysEye：解决杀毒软件无法查杀的木马或者高级威胁](https://github.com/huoji120/DuckSysEye)
+- [PowerHuntShares：PowerHuntShares是一个审计脚本，设计用于盘点、分析和报告Active Directory域上配置的滥用权限](https://github.com/NetSPI/PowerHuntShares)
 
 ### 红队工具
 
