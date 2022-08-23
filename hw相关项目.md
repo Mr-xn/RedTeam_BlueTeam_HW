@@ -96,6 +96,7 @@
 - [privatezilla：执行 Windows 10 的隐私和安全检查](https://github.com/builtbybel/privatezilla)
 - [DuckSysEye：解决杀毒软件无法查杀的木马或者高级威胁](https://github.com/huoji120/DuckSysEye)
 - [PowerHuntShares：PowerHuntShares是一个审计脚本，设计用于盘点、分析和报告Active Directory域上配置的滥用权限](https://github.com/NetSPI/PowerHuntShares)
+- [MenoyGone：通过 DOS 来耗尽 CS 云函数的调用额度](https://github.com/a1phaboy/MenoyGone)
 
 ### 红队工具
 
