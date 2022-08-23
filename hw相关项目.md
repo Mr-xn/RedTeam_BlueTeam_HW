@@ -17,6 +17,8 @@
 - [Tomcat Filter类型内存马与查杀技术学习](./hw/Tomcat%20Filter类型内存马与查杀技术学习.pdf)
 - [yingji：应急相关内容](https://github.com/tide-emergency/yingji)
 - [windows下的dns恶意外连应急排查](https://mp.weixin.qq.com/s/bZqOEMSw14Gsb9_idkqttw)|[备份](https://archive.ph/stGYS)
+- [Mysql蜜罐反制Cobalt Strike](https://xz.aliyun.com/t/11631)|[备份](https://archive.ph/wip/WbR6L)
+- [对云函数隐藏C2技术的防御反制思路](https://xz.aliyun.com/t/11625)|[备份](https://archive.ph/wip/AqsFP)
 
 ### 篮队工具
 
