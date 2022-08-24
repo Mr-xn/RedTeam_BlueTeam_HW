@@ -19,6 +19,7 @@
 - [windows下的dns恶意外连应急排查](https://mp.weixin.qq.com/s/bZqOEMSw14Gsb9_idkqttw)|[备份](https://archive.ph/stGYS)
 - [Mysql蜜罐反制Cobalt Strike](https://xz.aliyun.com/t/11631)|[备份](https://archive.ph/wip/WbR6L)
 - [对云函数隐藏C2技术的防御反制思路](https://xz.aliyun.com/t/11625)|[备份](https://archive.ph/wip/AqsFP)
+- [冰蝎v4.0传输协议详解](https://mp.weixin.qq.com/s/EwY8if6ed_hZ3nQBiC3o7A)|[备份](https://archive.ph/BVZmr)
 
 ### 篮队工具
 
@@ -160,6 +161,7 @@
 - [Armor：浏览器反蜜罐插件](https://github.com/jayus0821/Armor)
 - [Forest：基于frp(0.44.0)二次开发，删除不必要功能，加密配置文件，修改流量以及文件特征](https://github.com/seventeenman/Forest)
 - [AceLdr：Cobalt Strike UDRL 用于内存扫描bypass](https://github.com/kyleavery/AceLdr)
+- [利用 PHP-FPM 做内存马的方法](https://tttang.com/archive/1720/)|[备份](https://web.archive.org/save/https://tttang.com/archive/1720/)
 
 ### 其他
 
