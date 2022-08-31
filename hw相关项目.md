@@ -163,6 +163,9 @@
 - [AceLdr：Cobalt Strike UDRL 用于内存扫描bypass](https://github.com/kyleavery/AceLdr)
 - [利用 PHP-FPM 做内存马的方法](https://tttang.com/archive/1720/)|[备份](https://web.archive.org/save/https://tttang.com/archive/1720/)
 - [mscan：一款域渗透扫描工具，方便一键自动化、全方位的信息收集及扫描域提权漏洞](https://github.com/lele8/mscan)
+- [Elevator：UAC Bypass by abusing RPC and debug objects.](https://github.com/Kudaes/Elevator)
+- [GetMail：利用NTLM Hash读取Exchange邮件](https://github.com/b0bac/GetMail)
+- [hoaxshell：一款功能强大的非传统Windows反向Shell](https://github.com/t3l3machus/hoaxshell)
 
 ### 其他
 
