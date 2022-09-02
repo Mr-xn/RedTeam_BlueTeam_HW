@@ -172,3 +172,5 @@
 
 [jvm-http-proxy-agent：一个 JVM 代理，它为所有主要的 JVM HTTP 客户端自动强制代理 HTTP(S) 连接并信任 MitM 证书](https://github.com/httptoolkit/jvm-http-proxy-agent)
 
+[CppWeixinHunter：微信内存信息提取 c++实现。可获取自己电脑上已登录微信的微信号，wxid，手机号，sqlite解密密钥。](https://github.com/baiyies/CppWeixinHunter)
+
