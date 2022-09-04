@@ -20,6 +20,7 @@
 - [Mysql蜜罐反制Cobalt Strike](https://xz.aliyun.com/t/11631)|[备份](https://archive.ph/wip/WbR6L)
 - [对云函数隐藏C2技术的防御反制思路](https://xz.aliyun.com/t/11625)|[备份](https://archive.ph/wip/AqsFP)
 - [冰蝎v4.0传输协议详解](https://mp.weixin.qq.com/s/EwY8if6ed_hZ3nQBiC3o7A)|[备份](https://archive.ph/BVZmr)
+- [WorkMiner挖矿木马应急处置手册](./hw/WorkMiner挖矿木马应急处置手册.pdf)|[原文](https://mp.weixin.qq.com/s/N3BmLH4bZzn9yUDBklLBsQ)|[备份](https://archive.ph/wip/GPslX)
 
 ### 篮队工具
 
