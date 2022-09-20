@@ -21,6 +21,7 @@
 - [对云函数隐藏C2技术的防御反制思路](https://xz.aliyun.com/t/11625)|[备份](https://archive.ph/wip/AqsFP)
 - [冰蝎v4.0传输协议详解](https://mp.weixin.qq.com/s/EwY8if6ed_hZ3nQBiC3o7A)|[备份](https://archive.ph/BVZmr)
 - [WorkMiner挖矿木马应急处置手册](./hw/WorkMiner挖矿木马应急处置手册.pdf)|[原文](https://mp.weixin.qq.com/s/N3BmLH4bZzn9yUDBklLBsQ)|[备份](https://archive.ph/wip/GPslX)
+- [使用Sqlmap的你可能踩中了“蜜罐”](https://mp.weixin.qq.com/s/hwLNz-00YCBvBWMzJZM2Bg)|[备份](https://archive.ph/TL3wY)|[备份1](https://web.archive.org/web/20220918114117/https://mp.weixin.qq.com/s/hwLNz-00YCBvBWMzJZM2Bg)
 
 ### 篮队工具
 
@@ -102,6 +103,7 @@
 - [DuckSysEye：解决杀毒软件无法查杀的木马或者高级威胁](https://github.com/huoji120/DuckSysEye)
 - [PowerHuntShares：PowerHuntShares是一个审计脚本，设计用于盘点、分析和报告Active Directory域上配置的滥用权限](https://github.com/NetSPI/PowerHuntShares)
 - [MenoyGone：通过 DOS 来耗尽 CS 云函数的调用额度](https://github.com/a1phaboy/MenoyGone)
+- [RmEye：戎码之眼是一个window上的基于att&ck模型的威胁监控工具.有效检测常见的未知威胁与已知威胁.防守方的利剑](https://github.com/RoomaSec/RmEye)
 
 ### 红队工具
 
