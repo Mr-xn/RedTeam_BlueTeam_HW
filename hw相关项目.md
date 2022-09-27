@@ -173,6 +173,12 @@
 - [RedisWriteFile-通过 `Redis` 主从写出无损文件，可用于 `Windows` 平台下写出无损的 `EXE`、`DLL`、 `LNK` 和 `Linux` 下的 `OS` 等二进制文件](https://github.com/r35tart/RedisWriteFile)
 - [SharpHostInfo：一款快速探测内网主机信息工具](https://github.com/shmilylty/SharpHostInfo)
 - [iscsicpl_bypassUAC无弹窗版](https://github.com/zha0gongz1/iscsicpl_bypassUAC)
+- [DumpThatLSASS：又一款bypass AV dump工具](https://github.com/D1rkMtr/DumpThatLSASS)|[CallBackDump：能过卡巴、核晶、defender等杀软的dump lsass进程工具](https://github.com/seventeenman/CallBackDump)
+- [FastjsonScan：Fastjson扫描器，可识别版本、依赖库、autoType状态等](https://github.com/a1phaboy/FastjsonScan)
+- [Bof2PIC：BOF/COFF obj file to PIC(shellcode)](https://github.com/timwhitez/Bof2PIC)
+- [AsmShellcodeLoader：汇编语言编写Shellcode加载器源代码](https://github.com/Rvn0xsy/AsmShellcodeLoader)
+- [ShellCode_Loader：Msf&CobaltStrike免杀ShellCode加载器](https://github.com/Axx8/ShellCode_Loader)
+- [log4j_detect：类似于所谓的rasp的通过java native agent检测log4j的漏洞利用检测工具](https://github.com/huoji120/log4j_detect)
 
 ### 其他
 
