@@ -179,6 +179,10 @@
 - [AsmShellcodeLoader：汇编语言编写Shellcode加载器源代码](https://github.com/Rvn0xsy/AsmShellcodeLoader)
 - [ShellCode_Loader：Msf&CobaltStrike免杀ShellCode加载器](https://github.com/Axx8/ShellCode_Loader)
 - [log4j_detect：类似于所谓的rasp的通过java native agent检测log4j的漏洞利用检测工具](https://github.com/huoji120/log4j_detect)
+- [srdi-rs：Rusty Shellcode 反射 DLL 注入](https://github.com/memN0ps/srdi-rs)
+- [KnownDllUnhook：将当前加载的模块的 .txt 部分从 \KnownDlls\ 替换来绕过 edr](https://github.com/ORCx41/KnownDllUnhook)
+- [SharpToken：.NET版本的incognito，具有以下功能：枚举Token、从指定进程枚举Token、获得交互式shell、获取命令执行结果(webshell下执行)](https://github.com/BeichenDream/SharpToken)
+- [CLR-RWX：Load CLR to get RWX 通过加载clr在自身内存中产生rwx空间](https://github.com/timwhitez/CLR-RWX)
 
 ### 其他
 
