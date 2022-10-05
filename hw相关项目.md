@@ -183,6 +183,8 @@
 - [KnownDllUnhook：将当前加载的模块的 .txt 部分从 \KnownDlls\ 替换来绕过 edr](https://github.com/ORCx41/KnownDllUnhook)
 - [SharpToken：.NET版本的incognito，具有以下功能：枚举Token、从指定进程枚举Token、获得交互式shell、获取命令执行结果(webshell下执行)](https://github.com/BeichenDream/SharpToken)
 - [CLR-RWX：Load CLR to get RWX 通过加载clr在自身内存中产生rwx空间](https://github.com/timwhitez/CLR-RWX)
+- [VcenterKiller：一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005，提供一键上传webshell，命令执行或者上传公钥使用SSH连接](https://github.com/Schira4396/VcenterKiller)
+- [Freeze：使用多种技术绕过 EDR类产品加载 shellcode](https://github.com/optiv/Freeze)
 
 ### 其他
 
