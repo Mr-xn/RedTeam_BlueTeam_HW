@@ -104,6 +104,7 @@
 - [PowerHuntShares：PowerHuntShares是一个审计脚本，设计用于盘点、分析和报告Active Directory域上配置的滥用权限](https://github.com/NetSPI/PowerHuntShares)
 - [MenoyGone：通过 DOS 来耗尽 CS 云函数的调用额度](https://github.com/a1phaboy/MenoyGone)
 - [RmEye：戎码之眼是一个window上的基于att&ck模型的威胁监控工具.有效检测常见的未知威胁与已知威胁.防守方的利剑](https://github.com/RoomaSec/RmEye)
+- [maigret：更具用户名或者 ID 在数千个站点查询（可以用来辅助溯源）](https://github.com/soxoj/maigret)
 
 ### 红队工具
 
