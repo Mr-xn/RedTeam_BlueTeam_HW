@@ -124,7 +124,7 @@
 - [SharpXDecrypt：Xshell全版本密码恢复工具](https://github.com/JDArmy/SharpXDecrypt)
 - [veinmind-tools：容器安全工具集](https://github.com/chaitin/veinmind-tools)
 - [Plog：仅用于提取登录密码的 Mimikatz（免杀大多数 AV）](https://github.com/GamehunterKaan/Plog)
-- [ShellcodeLoader：绕过防病毒软件的Shellocde加载器](https://github.com/ByPassAVTeam/ShellcodeLoader)
+- ~~[ShellcodeLoader：绕过防病毒软件的Shellocde加载器-release投毒，攻击红队，源码无毒](https://github.com/ByPassAVTeam/ShellcodeLoader)~~
 - [iisScaner：多线程批量检测IIS短文件名漏洞+漏洞利用](https://github.com/VMsec/iisScaner)
 - [AKtools-Java版的aliyun-accesskey-Tools](https://github.com/Moon3r/AKtools)|[aliyun-accesskey-Tools-此工具用于查询ALIYUN_ACCESSKEY的主机，并且远程执行命令](https://github.com/mrknow001/aliyun-accesskey-Tools)|[alicloud-tools：阿里云ECS、策略组辅助小工具](https://github.com/iiiusky/alicloud-tools)
 - [dismember：扫描内存里敏感内容，其实就是类似 OD的内存字符串搜索](https://github.com/liamg/dismember)
@@ -188,6 +188,7 @@
 - [VcenterKiller：一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005，提供一键上传webshell，命令执行或者上传公钥使用SSH连接](https://github.com/Schira4396/VcenterKiller)
 - [Freeze：使用多种技术绕过 EDR类产品加载 shellcode](https://github.com/optiv/Freeze)
 - [SharpADUserIP：提取DC日志，快速获取域用户对应IP地址](https://github.com/evilashz/SharpADUserIP)
+- [CreateUser：绕过360，火绒添加用户](https://github.com/RuanLang0777/CreateUser)
 
 ### 其他
 
