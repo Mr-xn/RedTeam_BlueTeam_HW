@@ -189,6 +189,7 @@
 - [Freeze：使用多种技术绕过 EDR类产品加载 shellcode](https://github.com/optiv/Freeze)
 - [SharpADUserIP：提取DC日志，快速获取域用户对应IP地址](https://github.com/evilashz/SharpADUserIP)
 - [CreateUser：绕过360，火绒添加用户](https://github.com/RuanLang0777/CreateUser)
+- [SharpUserIP：在域控或远程提取登录日志，快速获取域用户对应的IP地址](https://github.com/lele8/SharpUserIP)
 
 ### 其他
 
