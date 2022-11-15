@@ -190,6 +190,7 @@
 - [SharpADUserIP：提取DC日志，快速获取域用户对应IP地址](https://github.com/evilashz/SharpADUserIP)
 - [CreateUser：绕过360，火绒添加用户](https://github.com/RuanLang0777/CreateUser)
 - [SharpUserIP：在域控或远程提取登录日志，快速获取域用户对应的IP地址](https://github.com/lele8/SharpUserIP)
+- [geacon_pro：跨平台重构了Cobaltstrike Beacon，适配了大部分Beacon的功能，行为对国内主流杀软免杀，支持4.1以上的版本](https://github.com/H4de5-7/geacon_pro)
 
 ### 其他
 
