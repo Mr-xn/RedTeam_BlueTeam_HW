@@ -192,6 +192,7 @@
 - [SharpUserIP：在域控或远程提取登录日志，快速获取域用户对应的IP地址](https://github.com/lele8/SharpUserIP)
 - [geacon_pro：跨平台重构了Cobaltstrike Beacon，适配了大部分Beacon的功能，行为对国内主流杀软免杀，支持4.1以上的版本](https://github.com/H4de5-7/geacon_pro)
 - [go_proxy_pool：无环境依赖开箱即用的代理IP池](https://github.com/pingc0y/go_proxy_pool)
+- [glider：支持聚合多种协议的代理转发，比如常见的http、socks4/5/4a、ss、Trojan、Trojanc、VLESS、VMess、SSR、SSH、KCP、Websocket等协议，可以将多个机场的代理聚合做成代理池](https://github.com/nadoo/glider)
 
 ### 其他
 
