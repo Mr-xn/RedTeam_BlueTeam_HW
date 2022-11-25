@@ -193,6 +193,8 @@
 - [geacon_pro：跨平台重构了Cobaltstrike Beacon，适配了大部分Beacon的功能，行为对国内主流杀软免杀，支持4.1以上的版本](https://github.com/H4de5-7/geacon_pro)
 - [go_proxy_pool：无环境依赖开箱即用的代理IP池](https://github.com/pingc0y/go_proxy_pool)
 - [glider：支持聚合多种协议的代理转发，比如常见的http、socks4/5/4a、ss、Trojan、Trojanc、VLESS、VMess、SSR、SSH、KCP、Websocket等协议，可以将多个机场的代理聚合做成代理池](https://github.com/nadoo/glider)
+- [YongyouNC-Unserialize-Tools：用友NC反序列化漏洞payload生成](https://github.com/Ghost2097221/YongyouNC-Unserialize-Tools)
+- [SchTask_0x727：创建隐藏计划任务，权限维持，Bypass AV](https://github.com/0x727/SchTask_0x727)
 
 ### 其他
 
