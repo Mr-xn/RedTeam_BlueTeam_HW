@@ -106,6 +106,7 @@
 - [RmEye：戎码之眼是一个window上的基于att&ck模型的威胁监控工具.有效检测常见的未知威胁与已知威胁.防守方的利剑](https://github.com/RoomaSec/RmEye)
 - [maigret：更具用户名或者 ID 在数千个站点查询（可以用来辅助溯源）](https://github.com/soxoj/maigret)
 - [CVE-2022-39197：CobaltStrike <= 4.7.1 RCE 蓝队反打红队C2的利器!](https://github.com/its-arun/CVE-2022-39197)
+- [cs-discovery：扫描指定目标地址是否存在Cobalt Strike服务](https://github.com/eremit4/cs-discovery)
 
 ### 红队工具
 
