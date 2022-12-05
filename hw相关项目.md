@@ -198,6 +198,7 @@
 - [YongyouNC-Unserialize-Tools：用友NC反序列化漏洞payload生成](https://github.com/Ghost2097221/YongyouNC-Unserialize-Tools)
 - [SchTask_0x727：创建隐藏计划任务，权限维持，Bypass AV](https://github.com/0x727/SchTask_0x727)
 - [SharpNTLMSSPExtract：利用 NTLMSSP 探测 Windows 信息](https://github.com/RowTeam/SharpNTLMSSPExtract)
+- [ShiroKeyCheck：gol编写的Shiro key检测爆破工具](https://github.com/myzxcg/ShiroKeyCheck)
 
 ### 其他
 
