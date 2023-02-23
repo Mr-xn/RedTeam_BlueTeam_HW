@@ -203,6 +203,8 @@
 - [Webshell_Generate：用于生成各类免杀webshell](https://github.com/cseroad/Webshell_Generate)
 - [seeyonExp：致远命令执行漏洞系列的GUI利用工具](https://github.com/kai1025/seeyonExp)
 - [APIKiller：API漏洞扫描、检测工具](https://github.com/Aur0ra-m/APIKiller)
+- [IIS_Backdoor_Dll：精简版IIS-Backdoor](https://github.com/badboycxcc/IIS_Backdoor_Dll)
+- [suo5：一款高性能 HTTP 代理隧道工具](https://github.com/zema1/suo5)
 
 ### 其他
 
