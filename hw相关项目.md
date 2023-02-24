@@ -108,6 +108,7 @@
 - [CVE-2022-39197：CobaltStrike <= 4.7.1 RCE 蓝队反打红队C2的利器!](https://github.com/its-arun/CVE-2022-39197)
 - [cs-discovery：扫描指定目标地址是否存在Cobalt Strike服务](https://github.com/eremit4/cs-discovery)
 - [UsbKeyboardDataHacker：USB键盘流量包取证工具 , 用于恢复用户的击键信息](https://github.com/WangYihang/UsbKeyboardDataHacker)
+- [shell-analyzer：Java内存马查杀GUI工具，实时动态分析，支持本地和远程查杀](https://github.com/4ra1n/shell-analyzer)
 
 ### 红队工具
 
