@@ -207,6 +207,7 @@
 - [APIKiller：API漏洞扫描、检测工具](https://github.com/Aur0ra-m/APIKiller)
 - [IIS_Backdoor_Dll：精简版IIS-Backdoor](https://github.com/badboycxcc/IIS_Backdoor_Dll)
 - [suo5：一款高性能 HTTP 代理隧道工具](https://github.com/zema1/suo5)
+- [SmallProxyPool：一个免费高质量的小代理池（从fofa搜索开放socks5代理）](https://github.com/Ggasdfg321/SmallProxyPool)
 
 ### 其他
 
