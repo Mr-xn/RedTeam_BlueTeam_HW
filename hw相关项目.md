@@ -110,6 +110,7 @@
 - [UsbKeyboardDataHacker：USB键盘流量包取证工具 , 用于恢复用户的击键信息](https://github.com/WangYihang/UsbKeyboardDataHacker)
 - [shell-analyzer：Java内存马查杀GUI工具，实时动态分析，支持本地和远程查杀](https://github.com/4ra1n/shell-analyzer)
 - [npscrack：蓝队利器、溯源反制、NPS 漏洞利用、NPS exp、NPS poc、Burp插件、一键利用（burp插件）](https://github.com/weishen250/npscrack)
+- [BlueTeamToolsV4.3.zip](./Blue_Tools/BlueTeamToolsV4.3.zip)
 
 ### 红队工具
 
