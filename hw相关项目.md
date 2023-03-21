@@ -209,6 +209,7 @@
 - [IIS_Backdoor_Dll：精简版IIS-Backdoor](https://github.com/badboycxcc/IIS_Backdoor_Dll)
 - [suo5：一款高性能 HTTP 代理隧道工具](https://github.com/zema1/suo5)
 - [SmallProxyPool：一个免费高质量的小代理池（从fofa搜索开放socks5代理）](https://github.com/Ggasdfg321/SmallProxyPool)
+- [rabbithole: 一个完全使用Rust编写的代理池工具，从网络搜索socks5代理，检测可用性之后开启socks5代理服务](https://github.com/AbelChe/rabbithole)
 
 ### 其他
 
