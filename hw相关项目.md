@@ -210,6 +210,14 @@
 - [suo5：一款高性能 HTTP 代理隧道工具](https://github.com/zema1/suo5)
 - [SmallProxyPool：一个免费高质量的小代理池（从fofa搜索开放socks5代理）](https://github.com/Ggasdfg321/SmallProxyPool)
 - [rabbithole: 一个完全使用Rust编写的代理池工具，从网络搜索socks5代理，检测可用性之后开启socks5代理服务](https://github.com/AbelChe/rabbithole)
+- [wmiexec-Pro: 新一代的wmiexec.py](https://github.com/XiaoliChan/wmiexec-Pro)
+- [nanodump: LSASS转储的瑞士军刀](https://github.com/fortra/nanodump)
+- [GoLangPhant0m: 杀win 日志](https://github.com/nu1r/GoLangPhant0m)
+- [feroxbuster: 一个用Rust编写的快速、简单、递归的目录扫描工具](https://github.com/epi052/feroxbuster)
+- [yetAnotherObfuscator: 绕过Windows Defender的C#混淆器](https://github.com/0xb11a1/yetAnotherObfuscator)
+- [SharpExchangeKing: Exchange 服务器安全性的辅助测试工具](https://github.com/RowTeam/SharpExchangeKing)
+- [HardHatC2: 一个C#命令和控制框架](https://github.com/DragoQCC/HardHatC2)
+- [Supershell: Supershell C2 远控平台，基于反向SSH隧道获取完全交互式Shell](https://github.com/tdragon6/Supershell)
 
 ### 其他
 
