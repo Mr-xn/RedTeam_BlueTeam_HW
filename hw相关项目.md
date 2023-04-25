@@ -111,6 +111,7 @@
 - [shell-analyzer：Java内存马查杀GUI工具，实时动态分析，支持本地和远程查杀](https://github.com/4ra1n/shell-analyzer)
 - [npscrack：蓝队利器、溯源反制、NPS 漏洞利用、NPS exp、NPS poc、Burp插件、一键利用（burp插件）](https://github.com/weishen250/npscrack)
 - [BlueTeamToolsV4.3.zip](./Blue_Tools/BlueTeamToolsV4.3.zip)|[BlueTeamToolsV0.52.zip](./Blue_Tools/BlueTeamToolsV0.52.zip)
+- [JSPHunter: 基于污点分析和模拟栈帧技术的JSP Webshell检测基于污点分析和模拟栈帧技术的JSP Webshell检测](https://github.com/TonyD0g/JSPHunter)
 
 ### 红队工具
 
