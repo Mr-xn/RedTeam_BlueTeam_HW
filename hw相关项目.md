@@ -112,6 +112,7 @@
 - [npscrack：蓝队利器、溯源反制、NPS 漏洞利用、NPS exp、NPS poc、Burp插件、一键利用（burp插件）](https://github.com/weishen250/npscrack)
 - [BlueTeamToolsV4.3.zip](./Blue_Tools/BlueTeamToolsV4.3.zip)|[BlueTeamToolsV0.52.zip](./Blue_Tools/BlueTeamToolsV0.52.zip)
 - [JSPHunter: 基于污点分析和模拟栈帧技术的JSP Webshell检测基于污点分析和模拟栈帧技术的JSP Webshell检测](https://github.com/TonyD0g/JSPHunter)
+- [windodws-logs-analysis: windows日志一键分析小工具](https://github.com/dogadmin/windodws-logs-analysis)
 
 ### 红队工具
 
