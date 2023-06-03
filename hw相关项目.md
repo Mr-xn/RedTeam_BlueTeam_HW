@@ -220,6 +220,7 @@
 - [SharpExchangeKing: Exchange 服务器安全性的辅助测试工具](https://github.com/RowTeam/SharpExchangeKing)
 - [HardHatC2: 一个C#命令和控制框架](https://github.com/DragoQCC/HardHatC2)
 - [Supershell: Supershell C2 远控平台，基于反向SSH隧道获取完全交互式Shell](https://github.com/tdragon6/Supershell)
+- [superman：杀死受防病毒保护的进程工具](https://github.com/b1-team/superman)｜[备份下载](./Red_Tools/superman.exe)
 
 ### 其他
 
