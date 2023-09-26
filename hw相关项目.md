@@ -22,6 +22,7 @@
 - [冰蝎v4.0传输协议详解](https://mp.weixin.qq.com/s/EwY8if6ed_hZ3nQBiC3o7A)|[备份](https://archive.ph/BVZmr)
 - [WorkMiner挖矿木马应急处置手册](./hw/WorkMiner挖矿木马应急处置手册.pdf)|[原文](https://mp.weixin.qq.com/s/N3BmLH4bZzn9yUDBklLBsQ)|[备份](https://archive.ph/wip/GPslX)
 - [使用Sqlmap的你可能踩中了“蜜罐”](https://mp.weixin.qq.com/s/hwLNz-00YCBvBWMzJZM2Bg)|[备份](https://archive.ph/TL3wY)|[备份1](https://web.archive.org/web/20220918114117/https://mp.weixin.qq.com/s/hwLNz-00YCBvBWMzJZM2Bg)
+- [SuperShell溯源反制-默认密钥/密码利用](https://mp.weixin.qq.com/s/kspLJYFfB6tD7d7Pao94Lg?ref=https://github.com/Mr-xn/RedTeam_BlueTeam_HW)|[备份](./doc/blue/SuperShell溯源反制-默认密钥:密码利用.html)
 
 ### 篮队工具
 
