@@ -117,6 +117,7 @@
 - [BlueTeamToolsV4.3.zip](./Blue_Tools/BlueTeamToolsV4.3.zip)|[BlueTeamToolsV0.52.zip](./Blue_Tools/BlueTeamToolsV0.52.zip)
 - [JSPHunter: 基于污点分析和模拟栈帧技术的JSP Webshell检测基于污点分析和模拟栈帧技术的JSP Webshell检测](https://github.com/TonyD0g/JSPHunter)
 - [windodws-logs-analysis: windows日志一键分析小工具](https://github.com/dogadmin/windodws-logs-analysis)
+- [SimpleHoneyPot：面向护网，攻防演练等场景下的小型蜜罐（mysql、mysql、goby、和vpn蜜罐）](https://github.com/handbye/SimpleHoneyPot)
 
 ### 红队工具
 
@@ -225,6 +226,7 @@
 - [HardHatC2: 一个C#命令和控制框架](https://github.com/DragoQCC/HardHatC2)
 - [Supershell: Supershell C2 远控平台，基于反向SSH隧道获取完全交互式Shell](https://github.com/tdragon6/Supershell)
 - [superman：杀死受防病毒保护的进程工具](https://github.com/b1-team/superman)｜[备份下载](./Red_Tools/superman.exe)
+- [Struts2VulsScanTools：Struts2全版本漏洞检测工具 19.21](https://github.com/abc123info/Struts2VulsScanTools)
 
 ### 其他
 
