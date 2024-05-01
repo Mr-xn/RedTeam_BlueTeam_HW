@@ -27,6 +27,7 @@
 - [Windows快捷方式利用技巧](https://mp.weixin.qq.com/s/ZPL84wN8MitFzrkegZCLdg)|[备份](./doc/red/Windows快捷方式利用技巧.html)
 - [Linux提权过程中的各种姿势](https://mp.weixin.qq.com/s/K13LvvYsU8mi32pgsq4WeQ)|[备份](./doc/red/Linux提权过程中的各种姿势.html)
 - [linglong:一款甲方资产巡航扫描系统的JWT硬编码密钥之殇](https://mrxn.net/jswz/awake1t-linglong-authorization-bypass.html) | [备份](./doc/blue/linglong%3A一款甲方资产巡航扫描系统的JWT硬编码密钥之殇.md)
+- [一种 ysoserial.jar 反序列化Payload的解码](./doc/blue/一种%20ysoserial.jar%20反序列化Payload的解码.html)
 
 ### 篮队工具
 
