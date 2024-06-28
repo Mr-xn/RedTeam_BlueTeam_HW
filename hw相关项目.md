@@ -121,6 +121,7 @@
 - [JSPHunter: 基于污点分析和模拟栈帧技术的JSP Webshell检测基于污点分析和模拟栈帧技术的JSP Webshell检测](https://github.com/TonyD0g/JSPHunter)
 - [windodws-logs-analysis: windows日志一键分析小工具](https://github.com/dogadmin/windodws-logs-analysis)
 - [SimpleHoneyPot：面向护网，攻防演练等场景下的小型蜜罐（mysql、mysql、goby、和vpn蜜罐）](https://github.com/handbye/SimpleHoneyPot)
+- [Whoamifuck: 一款由shell编写的检测入侵用户的工具](https://github.com/enomothem/Whoamifuck)
 
 ### 红队工具
 
