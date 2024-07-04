@@ -122,6 +122,7 @@
 - [windodws-logs-analysis: windows日志一键分析小工具](https://github.com/dogadmin/windodws-logs-analysis)
 - [SimpleHoneyPot：面向护网，攻防演练等场景下的小型蜜罐（mysql、mysql、goby、和vpn蜜罐）](https://github.com/handbye/SimpleHoneyPot)
 - [Whoamifuck: 一款由shell编写的检测入侵用户的工具](https://github.com/enomothem/Whoamifuck)
+- [EvilPot: 一个专门用于让扫描器产生误报的靶场(蜜罐)](https://github.com/chaitin/xray/releases/tag/EvilPot-0.0.1)
 
 ### 红队工具
 
