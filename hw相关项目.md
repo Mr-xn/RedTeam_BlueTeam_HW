@@ -29,6 +29,8 @@
 - [linglong:一款甲方资产巡航扫描系统的JWT硬编码密钥之殇](https://mrxn.net/jswz/awake1t-linglong-authorization-bypass.html) | [备份](./doc/blue/linglong%3A一款甲方资产巡航扫描系统的JWT硬编码密钥之殇.md)
 - [一种 ysoserial.jar 反序列化Payload的解码](./doc/blue/一种%20ysoserial.jar%20反序列化Payload的解码.html)
 - [利用Yara快速狩猎内存中的威胁](./doc/blue/利用Yara快速狩猎内存中的威胁.html)
+- [如何在 Windows 7 (win7) 系统上追踪发起DNS请求的进程](./doc/blue/如何在%20Windows%207%20(win7)%20系统上追踪发起DNS请求的进程%20-%20Mrxn's%20Blog.html)
+- [使用 DNSLookupView 在Windows系统上监控DNS请求](./doc/blue/使用%20DNSLookupView%20在Windows系统上监控DNS请求%20-%20Mrxn's%20Blog.html)
 
 ### 篮队工具
 
