@@ -1131,6 +1131,7 @@ CVE-2017-0262、CVE–2017–8759、CVE-2017-11882，这几个还没找到
 - https://github.com/samyk/frisky    针对 ios/macOS 应用的嗅探/修改/逆向/注入等工具
 - https://github.com/chaitin/passionfruit    iOS应用逆向与分析工具，可以大大加速iOS应用安全分析过程
 ### 防火墙规则、waf、CDN相关
+- https://github.com/chaitin/SafeLine    长亭雷池 SafeLine WAF，非常好用的免费 WAF
 - https://github.com/snort3/snort3    snort算是最出名的开源ids入侵检测
 - https://github.com/chaitin/yanshi    长亭偃师（yanshi）,雷池（SafeLine）防火墙核心引擎使用到的代码生成工具
 - https://github.com/SpiderLabs/ModSecurity    C，跨平台 WAF engine for Apache, IIS and Nginx
