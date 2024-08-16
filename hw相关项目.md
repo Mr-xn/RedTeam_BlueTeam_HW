@@ -31,6 +31,9 @@
 - [利用Yara快速狩猎内存中的威胁](./doc/blue/利用Yara快速狩猎内存中的威胁.html)
 - [如何在 Windows 7 (win7) 系统上追踪发起DNS请求的进程](./doc/blue/如何在%20Windows%207%20(win7)%20系统上追踪发起DNS请求的进程%20-%20Mrxn's%20Blog.html)
 - [使用 DNSLookupView 在Windows系统上监控DNS请求](./doc/blue/使用%20DNSLookupView%20在Windows系统上监控DNS请求%20-%20Mrxn's%20Blog.html)
+- [CobaltStrike(4.9.1)的狩猎与反狩猎 · Arui's blog](./doc/blue/CobaltStrike(4.9.1)的狩猎与反狩猎%20·%20Arui's%20blog.html)
+- [ICMP_DNS 隧道处置方法 _ Linux 应急响应](./doc/blue/ICMP_DNS%20隧道处置方法%20_%20Linux%20应急响应.html)
+- [ICMP_DNS 隧道处置方法 _ Windows 应急响应](./doc/blue/ICMP_DNS%20隧道处置方法%20_%20Windows%20应急响应.html)
 
 ### 篮队工具
 
