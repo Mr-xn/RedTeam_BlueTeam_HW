@@ -873,7 +873,7 @@ CVE-2017-0262、CVE–2017–8759、CVE-2017-11882，这几个还没找到
 - https://github.com/vysec/MaiInt    公司雇员信息收集测试工具
 - https://github.com/jofpin/trape    py，利用OSINT对人员进行追踪定位
 - https://github.com/famavott/osint-scraper    输入人名或邮箱地址, 自动从互联网爬取关于此人的信息
-- https://github.com/xHak9x/fbi    py2,facebook脸书信息搜集工具
+- https://github.com/Mr-xn/fbi    py2,facebook脸书信息搜集工具
 - https://github.com/initstring/linkedin2username    通过Linkedin 领英获取相关公司员工列表
 - https://github.com/0x09AL/raven    linux下领英Linkedin information gathering tool
 - https://github.com/Ridter/Mailget    通过脉脉用户猜测企业邮箱
