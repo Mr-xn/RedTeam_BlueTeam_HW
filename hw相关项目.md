@@ -34,6 +34,7 @@
 - [CobaltStrike(4.9.1)的狩猎与反狩猎 · Arui's blog](./doc/blue/CobaltStrike(4.9.1)的狩猎与反狩猎%20·%20Arui's%20blog.html)
 - [ICMP_DNS 隧道处置方法 _ Linux 应急响应](./doc/blue/ICMP_DNS%20隧道处置方法%20_%20Linux%20应急响应.html)
 - [ICMP_DNS 隧道处置方法 _ Windows 应急响应](./doc/blue/ICMP_DNS%20隧道处置方法%20_%20Windows%20应急响应.html)
+- [Linux 应急响应手册](https://github.com/Just-Hack-For-Fun/Linux-INCIDENT-RESPONSE-COOKBOOK)
 
 ### 篮队工具
 
@@ -128,6 +129,15 @@
 - [SimpleHoneyPot：面向护网，攻防演练等场景下的小型蜜罐（mysql、mysql、goby、和vpn蜜罐）](https://github.com/handbye/SimpleHoneyPot)
 - [Whoamifuck: 一款由shell编写的检测入侵用户的工具](https://github.com/enomothem/Whoamifuck)
 - [EvilPot: 一个专门用于让扫描器产生误报的靶场(蜜罐)](https://github.com/chaitin/xray/releases/tag/EvilPot-0.0.1)
+- [QDoctor 是一款专为应急响应设计的增强型 ARK（Anti RootKit）工具，集成了传统 RootKit 检测功能与结构化日志导出/导入能力，支持多种 Windows 系统，可快速定位恶意项目并提升威胁分析效率1。](https://github.com/QAX-Anti-Virus/QDoctor)
+- [Windows应急响应工具---Hawkeye(鹰眼)。集Windows日志分析，进程扫描，主机信息于一体的综合应急响应分析工具](https://github.com/mir1ce/Hawkeye)
+- [自动化分析网络安全应急响应工具](https://github.com/FindAllTeam/FindAll)
+- [linux应急响应检查脚本单机终极版](https://github.com/sun977/linuxcheckshoot)
+- [Linux通用应急响应脚本，适用大多数情况](https://github.com/Ashro-one/Ashro_linux)
+- [RmTools 是由 RoomaSec（戎码科技）团队开发的开源蓝队应急工具集，旨在帮助安全专家在应急响应过程中发现和清除后门、病毒等恶意软件。该工具集包含多个模块，如 Yara Scanner、Door Scanner 和 Memory Scanner，用于不同场景的安全检测。所有工具依赖于 OPSWAT 的 IOC 情报源，用户需注册并配置 API 密钥](https://github.com/RoomaSec/RmTools)
+- [猫鼠信安应急响应工具包是一个开源的安全应急工具集，包含 rootkit 检测、webshell 查杀、勒索解密、启动项管理、日志与流量分析等模块，旨在辅助安全研究人员进行快速应急响应和恶意行为排查](https://github.com/Xuno1/Emergency-response-toolset)
+- [Fireman 是一个用于批量管理和检查 Linux 服务器状态的应急响应工具，支持通过 SSH 批量执行命令，快速排查可疑用户、非法外连、文件变更等安全事件。](https://github.com/liuxinyu228/fireman)
+- [Jaeger 是 Symph0nia 团队开发的 Linux 平台应急响应工具，旨在实现快速高效的安全事件检索和处理。](https://github.com/Symph0nia/Jaeger)
 
 ### 红队工具
 
