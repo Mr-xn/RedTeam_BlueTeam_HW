@@ -35,6 +35,7 @@
 - [ICMP_DNS 隧道处置方法 _ Linux 应急响应](./doc/blue/ICMP_DNS%20隧道处置方法%20_%20Linux%20应急响应.html)
 - [ICMP_DNS 隧道处置方法 _ Windows 应急响应](./doc/blue/ICMP_DNS%20隧道处置方法%20_%20Windows%20应急响应.html)
 - [Linux 应急响应手册](https://github.com/Just-Hack-For-Fun/Linux-INCIDENT-RESPONSE-COOKBOOK)
+- [Arthas在内存马查杀中的应用](./doc/blue/Arthas在内存马查杀中的应用.html)
 
 ### 篮队工具
 
