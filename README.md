@@ -158,7 +158,3 @@ HVV资料
 
 [其他资料下载地址一](https://mir.cr/RUZ0EHNA)  
 [其他资料下载地址二](http://disk.scan.cm/zlsec/zlsec_info/document/HW)
-
-# 赞助
-
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
