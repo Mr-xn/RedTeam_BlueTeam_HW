@@ -140,6 +140,7 @@
 - [猫鼠信安应急响应工具包是一个开源的安全应急工具集，包含 rootkit 检测、webshell 查杀、勒索解密、启动项管理、日志与流量分析等模块，旨在辅助安全研究人员进行快速应急响应和恶意行为排查](https://github.com/Xuno1/Emergency-response-toolset)
 - [Fireman 是一个用于批量管理和检查 Linux 服务器状态的应急响应工具，支持通过 SSH 批量执行命令，快速排查可疑用户、非法外连、文件变更等安全事件。](https://github.com/liuxinyu228/fireman)
 - [Jaeger 是 Symph0nia 团队开发的 Linux 平台应急响应工具，旨在实现快速高效的安全事件检索和处理。](https://github.com/Symph0nia/Jaeger)
+- [FastWinLog 是一款集成AI辅助分析功能的Windows日志安全分析工具](https://github.com/vam876/FastWinLog)
 
 ### 红队工具
 
