@@ -253,6 +253,8 @@
 - [VueCrack:红队浏览器插件-检测VUE站点未授权漏洞](https://github.com/Ad1euDa1e/VueCrack)
 - [CVE-2025-55182 & CVE-2025-66478 漏洞扫描](https://github.com/assetnote/react2shell-scanner) | [CVE-2025-55182注入哥斯拉内存马](https://github.com/BeichenDream/CVE-2025-55182-GodzillaMemoryShell) | [GodzillaNodeJsPayload: 哥斯拉NodeJs内存马插件](https://github.com/BeichenDream/GodzillaNodeJsPayload)
 - [evilwaf 是一款渗透测试工具，设计用于检测和绕过常见的 Web 应用程序防火墙 (WAF)。](https://github.com/matrixleons/evilwaf)
+- [BreachWeave：基于多智能体（Manager、Solver、Observer）架构的智能渗透测试框架，可实现自动化的渗透测试、漏洞验证与利用](https://github.com/m-sec-org/BreachWeave)
+- [adscan：一款专注于 Linux 环境的 Active Directory 渗透测试工具，自动化执行枚举、Kerberoasting、ADCS、DCSync 等 40 多种 AD 攻击技术](https://github.com/ADScanPro/adscan)
 
 ### 其他
 
