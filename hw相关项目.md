@@ -36,6 +36,7 @@
 - [ICMP_DNS 隧道处置方法 _ Windows 应急响应](./doc/blue/ICMP_DNS%20隧道处置方法%20_%20Windows%20应急响应.html)
 - [Linux 应急响应手册](https://github.com/Just-Hack-For-Fun/Linux-INCIDENT-RESPONSE-COOKBOOK)
 - [Arthas在内存马查杀中的应用](./doc/blue/Arthas在内存马查杀中的应用.html)
+- [Anthropic-Cybersecurity-Skills：面向 AI 智能体（Agent）的结构化网络安全技能库，包含 750+ 生产级安全技能，覆盖数字取证、恶意软件分析、威胁情报、云安全等领域](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
 
 ### 篮队工具
 
@@ -256,6 +257,7 @@
 - [BreachWeave：基于 multi-agent 架构（Manager、Solver、Observer）的智能渗透测试框架，可实现自动化的渗透测试、漏洞验证与利用](https://github.com/m-sec-org/BreachWeave)
 - [LuaN1aoAgent：鸾鸟（LuaN1ao），一款基于大语言模型、采用双图推理（P-E-R 规划-执行-反思架构）的自主认知驱动 AI 渗透测试智能体](https://github.com/SanMuzZzZz/LuaN1aoAgent)
 - [adscan：一款专注于 Linux 环境的 Active Directory 渗透测试工具，自动化执行枚举、Kerberoasting、ADCS、DCSync 等 40 多种 AD 攻击技术](https://github.com/ADScanPro/adscan)
+- [CACM：一款 Linux 权限维持与后渗透工具，支持端口扫描、进程隐藏、敏感信息搜集、多种权限维持技术及防反制/反溯源等功能](https://github.com/RuoJi6/CACM)
 
 ### 其他
 
